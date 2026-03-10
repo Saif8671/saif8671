@@ -93,14 +93,10 @@ I'm doing it now — one project, one CTF, one commit at a time.
 ---
 
 ## 📊 GitHub Stats
-
-
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saif8671&theme=github-dark-blue&hide_border=true)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saif8671&theme=github-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
+
 
 ---
 
