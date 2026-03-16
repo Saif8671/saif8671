@@ -154,43 +154,6 @@ class Saif:
 </div>
 
 ---
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saif8671/Saif8671/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saif8671/Saif8671/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Saif8671/Saif8671/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🎯 Current Mission
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  PHASE 1 — FOUNDATION                     [████████░░  80%] ║
-║  ┣━ Networking Basics        ✅ Complete                     ║
-║  ┣━ Linux Fundamentals       ✅ Complete                     ║
-║  ┣━ Web Security              🔄 In Progress                 ║
-║  ┣━ Cryptography              ⏳ Queued                      ║
-║  ┗━ Nmap · Wireshark · Tools ✅ Complete                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  PHASE 2 — BUILD                          [░░░░░░░░░░   0%] ║
-║  ┣━ Network Anomaly Detection (ML)                           ║
-║  ┣━ Adversarial ML Research                                  ║
-║  ┣━ Phishing Email Detection (NLP)                           ║
-║  ┗━ Intelligent Security Monitoring Dashboard                ║
-╠══════════════════════════════════════════════════════════════╣
-║  TARGET ROLES                                                ║
-║  → SOC Analyst  · Security AI Engineer  · Adversarial ML    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## 🧪 TryHackMe
 
@@ -198,14 +161,6 @@ class Saif:
   <a href="https://tryhackme.com/p/saifurrahman8671">
     <img src="https://tryhackme-badges.s3.amazonaws.com/saifurrahman8671.png" alt="TryHackMe Badge" />
   </a>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saif8671&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
