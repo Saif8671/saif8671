@@ -154,6 +154,79 @@ class Saif:
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saif8671/Saif8671/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saif8671/Saif8671/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Saif8671/Saif8671/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  PHASE 1 — FOUNDATION                     [████████░░  80%] ║
+║  ┣━ Networking Basics        ✅ Complete                     ║
+║  ┣━ Linux Fundamentals       ✅ Complete                     ║
+║  ┣━ Web Security              🔄 In Progress                 ║
+║  ┣━ Cryptography              ⏳ Queued                      ║
+║  ┗━ Nmap · Wireshark · Tools ✅ Complete                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  PHASE 2 — BUILD                          [░░░░░░░░░░   0%] ║
+║  ┣━ Network Anomaly Detection (ML)                           ║
+║  ┣━ Adversarial ML Research                                  ║
+║  ┣━ Phishing Email Detection (NLP)                           ║
+║  ┗━ Intelligent Security Monitoring Dashboard                ║
+╠══════════════════════════════════════════════════════════════╣
+║  TARGET ROLES                                                ║
+║  → SOC Analyst  · Security AI Engineer  · Adversarial ML    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🧪 TryHackMe
+
+<div align="center">
+  <a href="https://tryhackme.com/p/saifurrahman8671">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/saifurrahman8671.png" alt="TryHackMe Badge" />
+  </a>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saif8671&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" />
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║           CURRENTLY OPEN TO                         ║
+║   Free Internships  ·  Collaborative Projects       ║
+║   CTF Teams         ·  Open Source Contributions    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+*"The best SOC analyst is one who thinks like an attacker."*
+
+<br/>
+
+⭐ **Star a repo if it helped you — it tells me what to build next.**
+
+<br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=130&section=footer&text=Let%27s%20Build%20Something%20That%20Matters&fontSize=15&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
