@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%" alt="Saif Ur Rahman — AI / ML Engineer · Security Researcher · Builder"/>
+  <img src="./banner.png" width="100%" alt="Welcome to Saif's Github"/>
 </div>
 
 <div align="center">
