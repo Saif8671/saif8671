@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Welcome to Saif's Github"/>
-</div>
 
-<div align="center">
+# Saif Ur Rahman
+
+### AI/ML Engineer • Cybersecurity Enthusiast • Full Stack Developer
+
+<img src="./banner.png" width="100%" alt="Saif Banner"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ur-rahman-0211002b9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saif-portfolio8671.netlify.app)
@@ -10,39 +14,104 @@
 
 </div>
 
-&nbsp;
+---
 
-## *About me*
+## About Me
 
-<img align="right" width="200" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"/>
+<img align="right" width="220" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"/>
 
-Hello there! **I'm Saif Ur Rahman**, a final-year B.Tech CSM student specializing in **AI/ML and Cybersecurity** at AAR Mahaveer Engineering College (JNTUH), Hyderabad. I enjoy building real-world systems — from multi-agent AI pipelines to security tooling and full-stack SaaS products.
+I'm **Saif Ur Rahman**, a B.Tech Computer Science student specializing in **Artificial Intelligence, Machine Learning, and Cybersecurity**.
 
-&nbsp;
+I enjoy building intelligent systems that solve real-world problems—from healthcare AI and SOC automation to full-stack SaaS products and multi-agent workflows.
 
-🎓 &nbsp; ***B.Tech CSM (AI/ML + Cybersecurity) — JNTUH, Graduating 2027***  
-🔐 &nbsp; ***Building: VitalSense AI — Real-time Sepsis Prediction System***  
-🏆 &nbsp; ***Top 12 & 2nd in EdTech — CodeQuestOS × GradeSkills (900+ applicants)***  
-🤖 &nbsp; ***Built multi-agent AI systems, SOC automation tools & SaaS products***  
-🌍 &nbsp; ***Target: Masters at MBZUAI / Khalifa University, Dubai***  
+### Current Focus
 
-&nbsp;
+- Building **VitalSense AI** – Real-Time Sepsis Prediction System
+- Developing Multi-Agent AI Applications
+- Security Automation & Threat Detection
+- Researching Healthcare AI & Predictive Analytics
+- Preparing for MS Programs at MBZUAI & Khalifa University
 
-## *Technologies*
+---
+
+## Achievements
+
+🏆 Top 12 Finalist — CodeQuestOS × GradeSkills (900+ Applicants)
+
+🥈 2nd Place — EdTech Innovation Track
+
+🚀 Built AI, Cybersecurity & SaaS products used by real users
+
+💡 Active Hackathon Participant & Open Source Contributor
+
+---
+
+## Featured Projects
+
+### VitalSense AI
+Real-time Sepsis Prediction System using Machine Learning and Clinical Data Analytics.
+
+### SOC Automation Toolkit
+Automated security monitoring and incident response workflows.
+
+### Multi-Agent AI Framework
+AI agents collaborating for task planning, execution, and reporting.
+
+### Full-Stack SaaS Products
+Built scalable platforms using Next.js, FastAPI, Supabase, and Firebase.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,sklearn,fastapi,nextjs,react,nodejs,supabase,firebase,tailwind,git,linux,bash,docker&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,sklearn,fastapi,nextjs,react,nodejs,supabase,firebase,tailwind,docker,git,linux,bash&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=huggingface,github,vscode,postman,kali,mysql,postgres,vercel&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=huggingface,github,vscode,postman,kali,mysql,postgres,vercel&theme=dark"/>
 
 </div>
 
-&nbsp;
+---
 
-## *Statistics*
+## Areas of Interest
+
+```text
+Artificial Intelligence
+Machine Learning
+Generative AI
+Multi-Agent Systems
+Cybersecurity
+SOC Automation
+Healthcare AI
+Cloud & SaaS Architecture
+```
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saif8671&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif8671&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Saif8671&theme=dark&hide_border=true&background=000000"/>
+
+</div>
+
+---
+
+## Contribution Activity
 
 <div align="center">
 
@@ -50,32 +119,38 @@ Hello there! **I'm Saif Ur Rahman**, a final-year B.Tech CSM student specializin
 
 </div>
 
-&nbsp;
+---
+
+## GitHub Trophies
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Saif8671&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif8671&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saif8671&theme=darkhub&no-frame=true&margin-w=15"/>
 
 </div>
 
-&nbsp;
+---
+
+## Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/saif-ur-rahman-0211002b9
+
+🌐 Portfolio: https://saif-portfolio8671.netlify.app
+
+🐙 GitHub: https://github.com/Saif8671
+
+---
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Saif8671&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555)
+### Building AI That Creates Real Impact
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saif8671&style=for-the-badge&color=000000)
 
 </div>
 
-&nbsp;
-
 <div align="center">
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Saif8671&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer" width="100%"/>
 </div>
