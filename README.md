@@ -30,22 +30,15 @@ Hello there! **I'm Saif Ur Rahman**, a final-year B.Tech CSM student specializin
 
 ## *Technologies*
 
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
-[![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,sklearn,fastapi,nextjs,react,nodejs,supabase,firebase,tailwind,git,linux,bash,docker&theme=dark&perline=8" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=huggingface,github,vscode,postman,kali,mysql,postgres,vercel&theme=dark&perline=8" />
+
+</div>
 
 &nbsp;
 
@@ -57,6 +50,8 @@ Hello there! **I'm Saif Ur Rahman**, a final-year B.Tech CSM student specializin
 
 </div>
 
+&nbsp;
+
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saif8671&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa"/>
@@ -65,9 +60,11 @@ Hello there! **I'm Saif Ur Rahman**, a final-year B.Tech CSM student specializin
 
 </div>
 
+&nbsp;
+
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saif8671&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555)
+![Streak](https://streak-stats.demolab.com?user=Saif8671&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555)
 
 </div>
 
