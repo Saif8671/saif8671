@@ -1,9 +1,5 @@
 <div align="center">
 
-# Saif Ur Rahman
-
-### AI/ML Engineer • Cybersecurity Enthusiast • Full Stack Developer
-
 <img src="./banner.png" width="100%" alt="Saif Banner"/>
 
 <br/>
